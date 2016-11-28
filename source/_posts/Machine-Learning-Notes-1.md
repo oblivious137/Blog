@@ -1,12 +1,12 @@
 ---
-title: Machine Learnling Notes Ⅰ
+title: Machine Learning Notes Ⅰ
 date: 2016-10-29 20:10:03
 tags:
 - Machine learning
 - Stanford
 categories:
 - Machine learning
-description: 机器学习的动机与应用。
+description: 机器学习的动机与应用
 ---
 # 机器学习的动机与应用
 <!--more-->
